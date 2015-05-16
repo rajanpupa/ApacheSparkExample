@@ -1,0 +1,6 @@
+*.class
+bin/
+target/
+/home/hduser
+hybrid.sh~ pairs.sh~ stripes.sh~
+*.~
